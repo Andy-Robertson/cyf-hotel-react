@@ -35,7 +35,7 @@ A hotel themed landing page that was developed as part of the CodeYourFutures Fu
 
 ## Preview
 
-Episode Listing Page
+Landing Page
 ![CYF-Hotel-APP](https://andy-robertson.dev/static/media/CYFHotel.8bf34cba.png)
 
 
